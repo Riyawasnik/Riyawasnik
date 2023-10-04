@@ -1,5 +1,5 @@
 ![logo](https://github.com/Riyawasnik/Riyawasnik/blob/main/banner2.png)
-<h1 align="center">Hi 👋, I'm Riya Wasnik</h1>
+<h1 align="center">Hello,I'm Riya Wasnik</h1>
 <h3 align="center">A passionate data science analytics and machine learning student from India</h3>
 <img align = "right" alt="coding" width = "400" src="https://stackedacademy.com/wp-content/uploads/sites/131/2022/06/3404486.gif">
 
